@@ -1,3 +1,4 @@
+## BattleShipGame
 ### Requirements:
 1. The game will be played in a square area of the sea with NxN grids which will be called a battlefield. “N” should be taken as input in your code.
 2. The battlefield will be divided in half between both the players. So in a NxN battlefield, NxN/2 grids will belong to PlayerA and the other NxN/2 grids will belong to playerB
